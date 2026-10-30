@@ -1,5 +1,9 @@
 # calcom-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/calcom-or-just-updated-calendly-alternat?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Cal.com template](https://railway.com/deploy/calcom-or-just-updated-calendly-alternat?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [Cal.com](https://github.com/calcom/cal.diy) on
 [Railway](https://railway.com), published as `ghcr.io/bon5co/calcom-railway`.
 
